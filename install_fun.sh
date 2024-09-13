@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#Arch install only
 # Update package database
 echo "Updating package database..."
 sudo pacman -Syu --noconfirm
